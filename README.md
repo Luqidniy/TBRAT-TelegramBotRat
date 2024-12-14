@@ -8,7 +8,7 @@ Remote Administration Tool (RAT) is a type of software that allows a user (or at
 
 
 __________________________________
-
+Python 3.10
 
 pip install -r requirements.txt
 
