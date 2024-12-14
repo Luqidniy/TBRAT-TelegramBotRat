@@ -9,6 +9,6 @@ pycryptodome
 pywin32
 pygetwindow
 mss
-aiogram
+aiogram==2.23.1
 psutil
 PyQt6
