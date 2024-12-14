@@ -1,0 +1,14 @@
+opencv-python
+pyautogui
+sounddevice
+numpy
+webbrowser
+GPUtil
+sqlite3
+pycryptodome
+pywin32
+pygetwindow
+mss
+aiogram
+psutil
+PyQt6

@@ -1,7 +1,3 @@
-# TBRAT-TelegramBotRat
- My first project, a rat with control via a telegram bot on python
-
-
 
 
 Remote Administration Tool (RAT) is a type of software that allows a user (or attacker) to remotely control a computer or device. Typically, RATs are used by administrators for legitimate remote management of systems, but they can also be exploited by cybercriminals for malicious purposes. When used for malicious intent, a RAT enables unauthorized control over the infected system, often allowing attackers to monitor activity, steal data, install additional malware, and carry out other harmful actions.
@@ -12,10 +8,7 @@ __________________________________
 
 pip install -r requirements.txt
 
-python build.py
 
-"Интерфейс он на русском" 
-"The interface is in Russian"
 _________________________________
 
 
